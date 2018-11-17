@@ -23,7 +23,7 @@ class removeIncompletePetSpells {
 		
 		// Todas as configurações devem vir abaixo. Não mexer no restante dos arquivos.
 		$this->hostname	= $hostname;
-		$this->port		= $dbport;
+		$this->port	= $dbport;
 		$this->username	= $username;
 		$this->password	= $password;
 		$this->dbname	= $dbname;
